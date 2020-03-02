@@ -57,6 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+**/**/.DS_Store
+
 # don't add generated files from webpack
-public/app.js
-public/styles.css
+dist/
